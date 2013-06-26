@@ -1,0 +1,7 @@
+parameters:
+#    julia_dima_photo_gallery_widget.example.class: JuliaDima\PhotoGalleryWidgetBundle\Example
+
+services:
+#    julia_dima_photo_gallery_widget.example:
+#        class: %julia_dima_photo_gallery_widget.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
