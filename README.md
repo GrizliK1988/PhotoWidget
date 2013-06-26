@@ -1,0 +1,4 @@
+PhotoWidget
+===========
+
+Photo widget service
