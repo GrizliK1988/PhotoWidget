@@ -1,0 +1,4 @@
+julia_dima_photo_gallery_widget:
+    resource: "@JuliaDimaPhotoGalleryWidgetBundle/Resources/config/routing.yml"
+    prefix:   /
+
